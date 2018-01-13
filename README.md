@@ -1,2 +1,1 @@
-# MyProject
 c project
